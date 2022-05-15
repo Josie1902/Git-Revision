@@ -24,4 +24,8 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
+<<<<<<< HEAD
 RIP LUPIN
+=======
+RIP SEVERUS SNAPE
+>>>>>>> harry
