@@ -1,1 +1,2 @@
 Finding git differences
+Difference between staged and unstaged
