@@ -2,3 +2,4 @@ Finding git differences
 Difference between staged and unstaged
 something that will be stashed
 did dome mistake here, intending to be restored
+making more mistakes
